@@ -1,0 +1,12 @@
+Upload txt config
+
+get ip and login creds
+
+ssh or console
+
+show list of all devices with configs
+
+push button
+
+delete button
+
